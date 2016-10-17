@@ -11,3 +11,46 @@ div {
   padding: .5rem;
   text-align: center;
 }
+
+.btn {
+  display: inline-block;
+  padding: 0.4em 0.75em 0.3em;
+  background-color: #000;
+  border-radius: 8px;
+  border: 0;
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-color: #333;
+}
+
+.btn-subtle {
+  background-color: #ccc;
+}
+
+.btn-subtle:hover {
+  background-color: #666;
+}
+
+.btn-ghost {
+  background-color: #fff;
+  border: #000;
+  border-style: solid;
+  color: #000;
+}
+
+.btn-ghost:hover {
+  background-color: #666;
+}
+
+.btn-warning {
+  background-color: #f33;
+}
+
+.btn-warning:hover{
+  background-color: #933;
+}
+
+/** SMALL BUTTONS **/
