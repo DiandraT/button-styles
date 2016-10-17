@@ -56,13 +56,16 @@ div {
 /** SMALL BUTTONS **/
 
 .btn-small {
+  font-size: 0.875rem;
+}
+
+.btn-primarysmall {
   display: inline-block;
   padding: 0.4em 0.75em 0.3em;
   background-color: #000;
   border-radius: 8px;
   border: 0;
   color: #fff;
-  font-size: 0.875rem;
   text-decoration: none;
 }
 
