@@ -10,13 +10,13 @@ html {
 div {
   padding: .5rem;
   text-align: center;
-  margin: 0.1rem;
+  margin: .1rem;
 }
 
 .btn {
   font-size: 1.125rem;
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid;
   background-color: #333;
   border-radius: 8px;
@@ -56,16 +56,15 @@ div {
 /** SMALL BUTTONS **/
 
 .btn-small {
-  font-size: 0.875rem;
+  font-size: .875rem;
 }
 
 .btn-primarysmall {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #333;
   background-color: #333;
   border-radius: 8px;
-  border: 0;
   color: #fff;
   text-decoration: none;
 }
@@ -76,7 +75,7 @@ div {
 
 .btn-subtlesmall {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #ccc;
   border-radius: 8px;
   background-color: #ccc;
@@ -91,7 +90,7 @@ div {
 
 .btn-ghostsmall {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #000;
   border-radius: 8px;
   background-color: #fff;
@@ -106,7 +105,7 @@ div {
 
 .btn-warningsmall {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #f33;
   border-radius: 8px;
   color: #fff;
@@ -127,7 +126,7 @@ div {
 
 .btn-primarybig {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #333;
   background-color: #333;
   border-radius: 8px;
@@ -142,7 +141,7 @@ div {
 
 .btn-subtlebig {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #ccc;
   border-radius: 8px;
   color: #fff;
@@ -157,7 +156,7 @@ div {
 
 .btn-ghostbig {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #000;
   background-color: #fff;
   border-radius: 8px;
@@ -172,7 +171,7 @@ div {
 
 .btn-warningbig {
   display: inline-block;
-  padding: 0.4em 0.75em 0.3em;
+  padding: .4em .75em .3em;
   border: 3px solid #f33;
   border-radius: 8px;
   color: #fff;
